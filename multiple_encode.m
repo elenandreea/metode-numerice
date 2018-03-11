@@ -27,7 +27,6 @@ drum = '';
 drum = traverseaza ( S, c, drum);
 
 drum;
-%clear('all');
 
 endfunction
 
